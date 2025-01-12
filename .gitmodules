@@ -1,3 +1,6 @@
 [submodule "js/js_mime_presets"]
 	path = js/js_mime_presets
 	url = https://github.com/liledix4/js_mime_presets
+[submodule "js/js_xhr_ajax"]
+	path = js/js_xhr_ajax
+	url = https://github.com/liledix4/js_xhr_ajax
