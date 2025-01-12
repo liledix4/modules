@@ -1,0 +1,3 @@
+[submodule "js/js_mime_presets"]
+	path = js/js_mime_presets
+	url = https://github.com/liledix4/js_mime_presets
