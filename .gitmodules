@@ -4,3 +4,33 @@
 [submodule "js/js_xhr_ajax"]
 	path = js/js_xhr_ajax
 	url = https://github.com/liledix4/js_xhr_ajax
+[submodule "php/php_url"]
+	path = php/php_url
+	url = https://github.com/liledix4/php_url
+[submodule "php/php_geo_access"]
+	path = php/php_geo_access
+	url = https://github.com/liledix4/php_geo_access
+[submodule "php/php_file_uploads"]
+	path = php/php_file_uploads
+	url = https://github.com/liledix4/php_file_uploads
+[submodule "php/php_website_meta"]
+	path = php/php_website_meta
+	url = https://github.com/liledix4/php_website_meta
+[submodule "php/php_file_lock"]
+	path = php/php_file_lock
+	url = https://github.com/liledix4/php_file_lock
+[submodule "php/php_file_get_contents_curl"]
+	path = php/php_file_get_contents_curl
+	url = https://github.com/liledix4/php_file_get_contents_curl
+[submodule "php/php_secure"]
+	path = php/php_secure
+	url = https://github.com/liledix4/php_secure
+[submodule "php/php_github"]
+	path = php/php_github
+	url = https://github.com/liledix4/php_github
+[submodule "php/php_database"]
+	path = php/php_database
+	url = https://github.com/liledix4/php_database
+[submodule "php/php_config"]
+	path = php/php_config
+	url = https://github.com/liledix4/php_config
